@@ -2,7 +2,6 @@
 
 Simple Resume Generator Made using React JS
 
-Live at [Resume Generator](https://Athi223.github.io/resume-generator)
 
 ## Technologies/Frameworks used:
 
